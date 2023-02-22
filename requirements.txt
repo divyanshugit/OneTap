@@ -1,0 +1,9 @@
+clean-text[gpl]
+python-doctr[torch]
+gradio
+libretranslatepy
+natsort
+nltk
+pyspellchecker
+torch
+tqdm
